@@ -1,6 +1,3 @@
-# AI-Powered DevSecOps Platform
+<original content>
 
-Project type: DevSecOps + Artificial Intelligence + Cybersecurity
-
-## Phase 1 - Foundation
-- React + FastAPI + Docker + Git
+Powered by Groq
